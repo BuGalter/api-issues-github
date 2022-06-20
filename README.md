@@ -134,6 +134,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Runs the app.
 
+## Tests
+
+Приложение было протестирование с помощью postman, они находяться в папке проекта.
+
 ## Authors
 
 Nick - **BuGalter**
