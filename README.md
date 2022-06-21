@@ -96,7 +96,7 @@ Default: 1
 Стандартный ответ по url: `api/about` (200):
 
 ```html
-<a href="https://www.google.ru/">Читай readme</a>
+<a href="https://github.com/BuGalter/api-issues-github/blob/master/README.md">README</a>
 ```
 
 ## Main Technologies
